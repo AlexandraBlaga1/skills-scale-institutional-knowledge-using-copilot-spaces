@@ -22,6 +22,7 @@ The documents in this folder cover the core project management lifecycle for Oct
 - [octoacme-release-and-deployment.md](octoacme-release-and-deployment.md) — release and rollout guidance
 - [octoacme-retrospective-and-continuous-improvement.md](octoacme-retrospective-and-continuous-improvement.md) — improvement and retrospective habits
 - [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) — role definitions and personas
+- [octoacme-role-clarity-checklist.md](octoacme-role-clarity-checklist.md) — checklist for clarifying ownership, handoffs, and escalation paths
 
 ## Purpose of this knowledge hub
 

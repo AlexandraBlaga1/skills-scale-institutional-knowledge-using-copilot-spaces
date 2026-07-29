@@ -18,6 +18,9 @@ Applies to all cross-functional projects that deliver product features, services
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
+- Delivery Lead: helps coordinate execution across workstreams and dependencies.
+- Engineering Manager: supports technical planning, delivery health, and team enablement.
+- Customer Success / Support Liaison: connects delivery teams with customer feedback and support insights.
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
